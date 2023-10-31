@@ -20,15 +20,15 @@ export default memo(() => {
       <LLM />
       <Footer>
         <Trans i18nKey="llm.waitingForMore" ns={'setting'}>
-          更多模型正在
+          需要ChatGPT账号 + API？👉
           <Link
             aria-label={'todo'}
-            href="https://github.com/lobehub/lobe-chat/issues/151"
+            href="https://faka.aihub.ren"
             target="_blank"
           >
-            计划接入
+            点此购买
           </Link>
-          中 ，敬请期待 ✨
+          ，支持站长 ✨
         </Trans>
       </Footer>
     </>
