@@ -62,8 +62,8 @@ export default {
   temp: '临时',
   updateAgent: '更新助理信息',
   upgradeVersion: {
-    action: '立即升级',
-    hasNew: '有可用更新',
-    newVersion: '有新版本可用：{{version}}',
+    action: '查看更新动态',
+    hasNew: 'Github更新',
+    newVersion: '查看更新动态：{{version}}',
   },
 };
